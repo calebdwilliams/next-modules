@@ -1,0 +1,33 @@
+{
+  "name": "next-modules",
+  "version": "0.1.0",
+  "description": "Shim for ES modules implementations of HTML and CSS modules using web workers",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebdwilliams/next-modules.git"
+  },
+  "keywords": [
+    "modules",
+    "html-modules",
+    "css-modules",
+    "es",
+    "modules",
+    "web",
+    "workers"
+  ],
+  "author": "Caleb D. Williams <caleb.d.williams@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calebdwilliams/next-modules/issues"
+  },
+  "homepage": "https://github.com/calebdwilliams/next-modules#readme",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "standard-version": "^5.0.2",
+    "uglify-es": "^3.3.9"
+  }
+}

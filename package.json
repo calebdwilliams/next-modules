@@ -1,6 +1,6 @@
 {
   "name": "next-modules",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shim for ES modules implementations of HTML and CSS modules using web workers",
   "main": "sw.js",
   "scripts": {
